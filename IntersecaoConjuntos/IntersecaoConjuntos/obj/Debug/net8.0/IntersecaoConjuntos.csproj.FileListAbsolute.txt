@@ -1,0 +1,14 @@
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.AssemblyInfo.cs
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\bin\Debug\net8.0\IntersecaoConjuntos.exe
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\bin\Debug\net8.0\IntersecaoConjuntos.deps.json
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\bin\Debug\net8.0\IntersecaoConjuntos.runtimeconfig.json
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\bin\Debug\net8.0\IntersecaoConjuntos.dll
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\bin\Debug\net8.0\IntersecaoConjuntos.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.dll
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\refint\IntersecaoConjuntos.dll
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\IntersecaoConjuntos.genruntimeconfig.cache
+D:\DEV\fatec\projetos\Matematica Discreta\IntersecaoConjuntos\IntersecaoConjuntos\obj\Debug\net8.0\ref\IntersecaoConjuntos.dll

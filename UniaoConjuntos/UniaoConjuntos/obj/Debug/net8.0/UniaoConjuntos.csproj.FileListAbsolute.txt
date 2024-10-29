@@ -1,0 +1,14 @@
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.AssemblyInfo.cs
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\bin\Debug\net8.0\UniaoConjuntos.exe
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\bin\Debug\net8.0\UniaoConjuntos.deps.json
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\bin\Debug\net8.0\UniaoConjuntos.runtimeconfig.json
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\bin\Debug\net8.0\UniaoConjuntos.dll
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\bin\Debug\net8.0\UniaoConjuntos.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.dll
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\refint\UniaoConjuntos.dll
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\UniaoConjuntos.genruntimeconfig.cache
+D:\DEV\fatec\projetos\Matematica Discreta\UniaoConjuntos\UniaoConjuntos\obj\Debug\net8.0\ref\UniaoConjuntos.dll

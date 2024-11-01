@@ -1,0 +1,15 @@
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.AssemblyInfo.cs
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.sourcelink.json
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\bin\Debug\net8.0\Endorelacao.exe
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\bin\Debug\net8.0\Endorelacao.deps.json
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\bin\Debug\net8.0\Endorelacao.runtimeconfig.json
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\bin\Debug\net8.0\Endorelacao.dll
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\bin\Debug\net8.0\Endorelacao.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.dll
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\refint\Endorelacao.dll
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\Endorelacao.genruntimeconfig.cache
+D:\DEV\fatec\projetos\Matematica Discreta\Endorelacao\Endorelacao\obj\Debug\net8.0\ref\Endorelacao.dll

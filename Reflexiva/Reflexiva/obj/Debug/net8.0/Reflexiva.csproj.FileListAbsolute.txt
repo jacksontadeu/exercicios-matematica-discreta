@@ -1,0 +1,15 @@
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\bin\Debug\net8.0\Reflexiva.exe
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\bin\Debug\net8.0\Reflexiva.deps.json
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\bin\Debug\net8.0\Reflexiva.runtimeconfig.json
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\bin\Debug\net8.0\Reflexiva.dll
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\bin\Debug\net8.0\Reflexiva.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.AssemblyInfo.cs
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.sourcelink.json
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.dll
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\refint\Reflexiva.dll
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\Reflexiva.genruntimeconfig.cache
+D:\DEV\fatec\projetos\Matematica Discreta\Reflexiva\Reflexiva\obj\Debug\net8.0\ref\Reflexiva.dll

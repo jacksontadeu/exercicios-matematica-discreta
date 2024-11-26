@@ -1,0 +1,15 @@
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\bin\Debug\net8.0\FibonacciVetor.exe
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\bin\Debug\net8.0\FibonacciVetor.deps.json
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\bin\Debug\net8.0\FibonacciVetor.runtimeconfig.json
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\bin\Debug\net8.0\FibonacciVetor.dll
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\bin\Debug\net8.0\FibonacciVetor.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.AssemblyInfo.cs
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.sourcelink.json
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.dll
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\refint\FibonacciVetor.dll
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\FibonacciVetor.genruntimeconfig.cache
+D:\DEV\fatec\projetos\Matematica Discreta\FibonacciVetor\FibonacciVetor\obj\Debug\net8.0\ref\FibonacciVetor.dll

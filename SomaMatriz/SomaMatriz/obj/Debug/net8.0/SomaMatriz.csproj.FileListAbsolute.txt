@@ -1,0 +1,15 @@
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.AssemblyInfo.cs
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.sourcelink.json
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\bin\Debug\net8.0\SomaMatriz.exe
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\bin\Debug\net8.0\SomaMatriz.deps.json
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\bin\Debug\net8.0\SomaMatriz.runtimeconfig.json
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\bin\Debug\net8.0\SomaMatriz.dll
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\bin\Debug\net8.0\SomaMatriz.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.dll
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\refint\SomaMatriz.dll
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.pdb
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\SomaMatriz.genruntimeconfig.cache
+D:\DEV\fatec\projetos\Matematica Discreta\SomaMatriz\SomaMatriz\obj\Debug\net8.0\ref\SomaMatriz.dll
